@@ -9,3 +9,6 @@
 * red `#aa1c17`
 * light red `#b47565`
 * white `#ffffff`
+
+##TODO:
+* layout main page using flexbox
